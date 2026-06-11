@@ -1,6 +1,9 @@
 [package]
 name = "clip-quantize"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Clip Quantize"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/clip-quantize"
+edition = "2021"
 
 [dependencies]
